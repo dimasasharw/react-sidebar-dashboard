@@ -135,7 +135,6 @@
 
 .link {
   display: flex;
-  display: flex;
   color: black;
   padding: 5px;
   gap: 15px;
@@ -143,11 +142,12 @@
   text-decoration: none;
 }
 
-.link:hover {
+.link:hover, .link.active {
   background-color: #16C36C;
   border-radius: 20px;
   color: white;
 }
+
 
 .list-dashboard {
   width: 100%;
