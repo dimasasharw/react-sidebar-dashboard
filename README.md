@@ -1,6 +1,6 @@
 # React Sidebar Dashboard Documentation
 
-This documentation provides information on setting up and running the React TMDB project.
+This documentation provides information on setting up and running the React Sidebar Dashboard project.
 
 ## Getting Started
 
