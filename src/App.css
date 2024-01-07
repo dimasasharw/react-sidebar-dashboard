@@ -94,6 +94,7 @@
   color: #16C36C;
   font-size: 30px;
   font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .logo img {
@@ -159,13 +160,15 @@
 }
 
 /* Kandang.css */
-
+.table-title{
+  font-weight: bold;
+  font-size: 25px;
+}
 .popover-body {
   display: flex;
   flex-direction: column;
   gap: 10px;
   padding: 10px;
-
 }
 
 .popover-link {
@@ -211,7 +214,9 @@
   .logo img {
     width: 40px;
   }
-
+  .table-title{
+    font-size: 20px;
+  }
   .title-dashboard {
     font-size: 14px;
   }
@@ -247,7 +252,9 @@
   .title-dashboard {
     font-size: 11px;
   }
-
+  .table-title{
+    font-size: 17px;
+  }
   .table {
     font-size: 80%;
   }
@@ -264,7 +271,7 @@
   }
 }
 
-@media (max-width: 359px) {
+@media (max-width: 410px) {
   .logo {
     font-size: 18px;
   }
@@ -272,7 +279,9 @@
   .logo img {
     width: 28px;
   }
-
+  .table-title{
+    font-size: 15px;
+  }
   .title-dashboard {
     font-size: 10px;
   }

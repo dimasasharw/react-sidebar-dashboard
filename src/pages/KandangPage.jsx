@@ -49,7 +49,7 @@ export default function Kandang() {
             <div className="bg-page">
                 <div className="con-page">
                     <div className="table-title">
-                        <input type="checkbox" /> Kandang
+                        Data Kandang
                     </div>
                     <div className="add-data button">
                         <button className="btn btn-success" onClick={addKandang}>+ Tambah Data</button>
