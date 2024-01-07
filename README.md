@@ -1,8 +1,23 @@
-# React + Vite
+# React Sidebar Dashboard Documentation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This documentation provides information on setting up and running the React Sidebar Dashboard project.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Clone the Repository
+
+```bash
+https://github.com/dimasasharw/react-sidebar-dashboard.git
+```
+## Navigate to the Project Directory
+cd anitime-react-project
+
+## Install Dependencies
+```
+npm install
+```
+
+## Running the Application
+```
+npm run dev
+```
