@@ -7,7 +7,7 @@ This documentation provides information on setting up and running the React Side
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/dimasasharw/react-moviedb.git
+https://github.com/dimasasharw/react-sidebar-dashboard.git
 ```
 ## Navigate to the Project Directory
 cd anitime-react-project
